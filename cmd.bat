@@ -15,5 +15,5 @@ set PATH=%ANT_HOME%\bin;%PATH%
 ::¼à²âjava»·¾³
 java -version
 
-@echo ---------------------Rockontrol Ant---------------------
+@echo ---------------------Rockontrol Ant-----------------1----
 cmd.exe
