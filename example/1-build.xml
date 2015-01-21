@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="trust" basedir=".">
+	<target name="echo" description="使用echo输出过程信息：">
+		<echo>输出测试信息:</echo>
+	</target>
+</project>
