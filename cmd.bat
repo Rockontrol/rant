@@ -14,5 +14,6 @@ set ANT_HOME=%cd%
 set PATH=%ANT_HOME%\bin;%PATH%
 ::¼à²âjava»·¾³
 java -version
+
 @echo ---------------------Rockontrol Ant---------------------
-@cmd.exe
+cmd.exe
